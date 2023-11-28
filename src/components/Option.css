@@ -17,13 +17,13 @@
 }
 
 .correct {
-  background-color: #0bfc03;
+  background-color: #21bf53;
   font-weight: bold;
 }
 
 .wrong {
-  background-color: #3c0e70;
-  opacity: 0.5;
+  background-color: #8153b5;
+  opacity: 0.8;
 }
 
 .hide {

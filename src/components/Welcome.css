@@ -9,9 +9,10 @@
 }
 
 #welcome p {
-  color: #8435de;
+  color: #72B3AC;
 }
 
 #welcome img {
   margin-top: 2rem;
+  max-width: 400px;
 }
